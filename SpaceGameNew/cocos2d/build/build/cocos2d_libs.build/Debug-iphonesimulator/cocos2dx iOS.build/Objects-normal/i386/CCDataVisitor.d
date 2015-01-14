@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCDataVisitor.cpp \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/CCPlatformMacros.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/CCPlatformConfig.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/deprecated/CCBool.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/CCDataVisitor.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/deprecated/CCInteger.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/CCConsole.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/ccMacros.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/platform/ios/CCStdC.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/platform/CCCommon.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/deprecated/CCFloat.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/deprecated/CCDouble.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/deprecated/CCString.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/deprecated/CCArray.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/ccCArray.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/deprecated/CCDictionary.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/base/uthash.h \
+  /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/deprecated/CCSet.h

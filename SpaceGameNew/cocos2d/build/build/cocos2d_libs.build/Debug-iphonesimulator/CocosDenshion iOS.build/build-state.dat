@@ -1,0 +1,370 @@
+TCocosDenshion iOS
+v6
+r1
+cCheck dependencies
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/libCocosDenshion\ iOS.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053795C9800000000000003B4
+t1400462488
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053795CA2000000000000019E
+t1400462498
+s414
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/libCocosDenshion iOS.a
+t2
+s0
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDAudioManager.o
+t1413561476
+s91468
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDOpenALSupport.o
+t1413561476
+s14396
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion iOS.LinkFileList
+c0000000054413C830000000000000330
+t1413561475
+s816
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion.o
+t1413561475
+s124848
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine.o
+t1413561477
+s72228
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o
+t1413561476
+s36344
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m
+c0000000053BF48A8000000000000787A
+t1405044904
+s30842
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+c0000000053BF48A80000000000002AA4
+t1405044904
+s10916
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m
+c0000000053BF48A8000000000000CE44
+t1405044904
+s52804
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+c0000000053BF7DD60000000000001DF3
+t1405058518
+s7667
+
+N/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+c0000000053BF48A80000000000001663
+t1405044904
+s5731
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese50c510374f1b941^a226520374f1b941^---0#1#1#--18"Check dependencies36"3A0FCD53-DB52-4A75-BE02-FBEF268FBE22-
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435254275.322738
+e435254276.106354
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDAudioManager.o
+x/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m281"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler11c7520374f1b941^57421b0474f1b941^---0#0#1#-19%DVTDocumentLocation2@95"file://localhost/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m0000000000000000^4047"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/java/ant-1.8.4/bin:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/platform-tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk:/Users/dluan/cocos2d/android-ndk-r10:/Users/dluan/cocos2d/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@rails/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@global/bin:/Users/dluan/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/dluan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=204 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/.. -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/editor-support -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/platform/ios -I/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/include -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios -MMD -MT dependencies -MF /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.d --serialize-diagnostics /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.dia -c /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.m -o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDAudioManager.o36"27DF0DC9-AC82-4A87-BC72-3AB41BD378E6-
+bB94A30F5-F8A7-443F-8624-DDC798FB86C8
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435254276.109096
+e435254276.498796
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CDOpenALSupport.o
+x/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDConfig.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m283"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerce161c0474f1b941^25b27f0474f1b941^---0#0#1#-19%DVTDocumentLocation2@96"file://localhost/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m0000000000000000^4053"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/java/ant-1.8.4/bin:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/platform-tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk:/Users/dluan/cocos2d/android-ndk-r10:/Users/dluan/cocos2d/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@rails/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@global/bin:/Users/dluan/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/dluan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=204 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/.. -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/editor-support -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/platform/ios -I/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/include -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios -MMD -MT dependencies -MF /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.d --serialize-diagnostics /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.dia -c /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.m -o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CDOpenALSupport.o36"7CBF9357-F87A-4722-9EDF-8D0FA240351E-
+bB94A30F5-F8A7-443F-8624-DDC798FB86C8
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435254275.322749
+e435254275.921538
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/CocosDenshion.o
+x/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m279"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbbd6520374f1b941^a7e9eb0374f1b941^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m0000000000000000^4041"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/java/ant-1.8.4/bin:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/platform-tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk:/Users/dluan/cocos2d/android-ndk-r10:/Users/dluan/cocos2d/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@rails/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@global/bin:/Users/dluan/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/dluan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=204 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/.. -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/editor-support -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/platform/ios -I/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/include -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios -MMD -MT dependencies -MF /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.d --serialize-diagnostics /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.dia -c /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.m -o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion.o36"F1C7BC3E-0FEE-4B90-A92D-4B7ED424EDC1-
+bB94A30F5-F8A7-443F-8624-DDC798FB86C8
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s435254275.323100
+e435254277.794351
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine.o
+x/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/include/SimpleAudioEngine.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/include/Export.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/cocos2d.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/ccConfig.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCPlatformConfig.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCRef.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCPlatformMacros.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/ios/CCPlatformDefine.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCRefPtr.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/ccMacros.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCConsole.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/ios/CCStdC.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCVector.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCMap.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCAutoreleasePool.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCNS.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/CCGeometry.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/CCMath.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Vec2.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/CCMathBase.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Vec2.inl
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Vec3.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Vec3.inl
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Mat4.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Vec4.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Vec4.inl
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Mat4.inl
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Quaternion.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/Quaternion.inl
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCData.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCValue.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/ccTypes.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/ios/CCGL.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCConfiguration.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCDirector.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCLabelAtlas.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCAtlasNode.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCNode.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventDispatcher.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventListener.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEvent.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCScriptSupport.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/CCCommon.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCTouch.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventTouch.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventKeyboard.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCProtocols.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCTexture2D.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/CCAffineTransform.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/ccGLStateCache.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCQuadCommand.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCRenderCommand.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCGLProgramState.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCRenderCommandPool.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCScheduler.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/uthash.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/base64.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/ZipUtils.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCProfiling.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/ccUTF8.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCUserDefault.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCIMEDelegate.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCIMEDispatcher.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/ccUtils.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventType.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventListenerTouch.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventListenerKeyboard.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventListenerMouse.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventMouse.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventAcceleration.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventListenerAcceleration.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventCustom.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventListenerCustom.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventFocus.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCEventListenerFocus.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/MathUtil.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/MathUtil.inl
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/math/CCVertex.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCAction.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionInterval.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCSpriteFrame.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCAnimation.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionCamera.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionManager.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionEase.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionPageTurn3D.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionGrid3D.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionGrid.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionInstant.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionProgressTimer.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionTiledGrid.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionTween.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCActionCatmullRom.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTweenFunction.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCDrawingPrimitives.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCDrawNode.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCCustomCommand.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCLabelTTF.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCLabelBMFont.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCLabel.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCSpriteBatchNode.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCTextureAtlas.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCBatchCommand.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCGLProgram.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCFontAtlas.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCFontFNT.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCFont.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCLayer.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/physics/CCPhysicsWorld.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCScene.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTransition.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTransitionPageTurn.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTransitionProgress.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCMenu.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCMenuItem.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCClippingNode.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCGroupCommand.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCMotionStreak.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCProgressTimer.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCSprite.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/physics/CCPhysicsBody.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/physics/CCPhysicsShape.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCRenderTexture.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/CCImage.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCNodeGrid.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCParticleBatchNode.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCParticleSystem.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCString.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCArray.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/ccCArray.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/base/CCDataVisitor.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCParticleExamples.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCParticleSystemQuad.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCGrabber.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCGrid.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCRenderer.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCGLProgramCache.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/ccShaders.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCTextureCache.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/physics/CCPhysicsContact.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/physics/CCPhysicsJoint.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/CCDevice.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/CCFileUtils.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/CCSAXParser.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/CCThread.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/ios/CCApplication.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/CCApplicationProtocol.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/ios/CCGLView.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/platform/CCGLViewProtocol.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCAnimationCache.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCSpriteFrameCache.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTextFieldTTF.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCParallaxNode.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTMXLayer.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTMXObjectGroup.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTMXXMLParser.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTMXTiledMap.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCTileMapAtlas.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCFastTMXTiledMap.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCFastTMXLayer.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCComponent.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/2d/CCComponentContainer.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCSprite3D.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/renderer/CCMeshCommand.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCMesh.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCBundle3DData.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCMeshSkin.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCAnimate3D.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCAnimation3D.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCAnimationCurve.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCAnimationCurve.inl
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/3d/CCSprite3DMaterial.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCDictionary.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCSet.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCInteger.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCFloat.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCDouble.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCBool.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCNotificationCenter.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/deprecated/CCDeprecated.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm290"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compilerf4dc520374f1b941^185ccb0574f1b941^---0#0#1#-19%DVTDocumentLocation2@99"file://localhost/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm0000000000000000^4143"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm[0m normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/java/ant-1.8.4/bin:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/platform-tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk:/Users/dluan/cocos2d/android-ndk-r10:/Users/dluan/cocos2d/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@rails/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@global/bin:/Users/dluan/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/dluan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=204 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wnon-virtual-dtor -Woverloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/.. -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/editor-support -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/platform/ios -I/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/include -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios -MMD -MT dependencies -MF /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.d --serialize-diagnostics /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.dia -c /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine.mm -o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine.o36"5BE50A09-72A3-458A-A28C-1D7BDB1A84D6-
+bB94A30F5-F8A7-443F-8624-DDC798FB86C8
+
+CCompileC build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s435254275.923548
+e435254276.444526
+r1
+xCompileC
+xbuild/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o
+x/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDAudioManager.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CocosDenshion.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDConfig.h
+d/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/CDOpenALSupport.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m297"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4297ec0374f1b941^a3cd710474f1b941^---0#0#1#-19%DVTDocumentLocation2@103"file://localhost/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m0000000000000000^4095"[1mCompileC[0m build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o [1m/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/java/ant-1.8.4/bin:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/platform-tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk:/Users/dluan/cocos2d/android-ndk-r10:/Users/dluan/cocos2d/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@rails/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@global/bin:/Users/dluan/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/dluan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=204 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Werror=incompatible-pointer-types -Werror-implicit-function-declaration -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wshadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wno-int-conversion -Wbool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DCOCOS2D_DEBUG=1 -DUSE_FILE32API -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -DCC_TARGET_OS_IPHONE -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1.1 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/CocosDenshion\ iOS.hmap -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/.. -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/editor-support -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external/chipmunk/include/chipmunk -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../external -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/../cocos/platform/ios -I/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/include -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources/i386 -I/Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/DerivedSources -F/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios -MMD -MT dependencies -MF /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.d --serialize-diagnostics /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.dia -c /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/cocos/audio/ios/SimpleAudioEngine_objc.m -o /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/SimpleAudioEngine_objc.o36"FF2CF51A-FE5E-4BF3-B3DA-44D2E2D8FD6A-
+bB94A30F5-F8A7-443F-8624-DDC798FB86C8
+
+CLibtool /Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/libCocosDenshion\ iOS.a normal i386
+s435254277.804307
+e435254277.819449
+r1
+xLibtool
+x/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/libCocosDenshion iOS.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mLibtool[0m /Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/libCocosDenshion\ iOS.a normal i386104"[1mLibtool[0m /Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/libCocosDenshion\ iOS.a normal i3867007ce0574f1b941^efc7d10574f1b941^---0#0#1#--1460"[1mLibtool[0m /Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/libCocosDenshion\ iOS.a normal i386    cd /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build    export IPHONEOS_DEPLOYMENT_TARGET=5.1.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/share/java/ant-1.8.4/bin:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk/platform-tools:/Users/dluan/cocos2d/adt-bundle-mac-x86_64-20140702/sdk:/Users/dluan/cocos2d/android-ndk-r10:/Users/dluan/cocos2d/cocos2d-x-3.2/tools/cocos2d-console/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@rails/bin:/Users/dluan/.rvm/gems/ruby-2.1.0@global/bin:/Users/dluan/.rvm/rubies/ruby-2.1.0/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/dluan/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios -filelist /Users/dluan/cocos2d/demo/SpaceGameNew/cocos2d/build/build/cocos2d_libs.build/Debug-iphonesimulator/CocosDenshion\ iOS.build/Objects-normal/i386/CocosDenshion\ iOS.LinkFileList -o /Users/dluan/cocos2d/demo/SpaceGameNew/bin/debug/ios/libCocosDenshion\ iOS.a36"193590BF-EAC2-4A9D-985C-0B35E54941DA-
+bB94A30F5-F8A7-443F-8624-DDC798FB86C8
+
