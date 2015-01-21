@@ -69,15 +69,14 @@
 		D44C620E132DFF430009C878 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D44C620D132DFF430009C878 /* AVFoundation.framework */; };
 		D44C6210132DFF4E0009C878 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D44C620F132DFF4E0009C878 /* AudioToolbox.framework */; };
 		D6B0611B1803AB670077942B /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D6B0611A1803AB670077942B /* CoreMotion.framework */; };
-		E29C9D4719F1737900300C8A /* Backgrounds in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D4119F1737900300C8A /* Backgrounds */; };
-		E29C9D4819F1737900300C8A /* Classes in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D4219F1737900300C8A /* Classes */; };
-		E29C9D4919F1737900300C8A /* Fonts in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D4319F1737900300C8A /* Fonts */; };
-		E29C9D4B19F1737900300C8A /* Sounds in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D4519F1737900300C8A /* Sounds */; };
-		E29C9D4C19F1737900300C8A /* Spritesheets in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D4619F1737900300C8A /* Spritesheets */; };
-		E29C9D5019F174FC00300C8A /* Particles in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D4F19F174FC00300C8A /* Particles */; };
-		E29C9D5419F17BEC00300C8A /* explosion_large.wav in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D5119F17BEC00300C8A /* explosion_large.wav */; };
-		E29C9D5519F17BEC00300C8A /* laser_ship.wav in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D5219F17BEC00300C8A /* laser_ship.wav */; };
-		E29C9D5619F17BEC00300C8A /* SpaceGame.wav in Resources */ = {isa = PBXBuildFile; fileRef = E29C9D5319F17BEC00300C8A /* SpaceGame.wav */; };
+		E2230E071A6785CF00C44223 /* ParallaxNodeExtras.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2230E061A6785CF00C44223 /* ParallaxNodeExtras.cpp */; };
+		E2230E081A6785CF00C44223 /* ParallaxNodeExtras.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2230E061A6785CF00C44223 /* ParallaxNodeExtras.cpp */; };
+		E2230E0A1A67860600C44223 /* explosion_large.wav in Resources */ = {isa = PBXBuildFile; fileRef = E2230E091A67860600C44223 /* explosion_large.wav */; };
+		E2230E0B1A67860600C44223 /* explosion_large.wav in Resources */ = {isa = PBXBuildFile; fileRef = E2230E091A67860600C44223 /* explosion_large.wav */; };
+		E2230E0D1A67861300C44223 /* laser_ship.wav in Resources */ = {isa = PBXBuildFile; fileRef = E2230E0C1A67861300C44223 /* laser_ship.wav */; };
+		E2230E0E1A67861300C44223 /* laser_ship.wav in Resources */ = {isa = PBXBuildFile; fileRef = E2230E0C1A67861300C44223 /* laser_ship.wav */; };
+		E2230E101A67861B00C44223 /* SpaceGame.wav in Resources */ = {isa = PBXBuildFile; fileRef = E2230E0F1A67861B00C44223 /* SpaceGame.wav */; };
+		E2230E111A67861B00C44223 /* SpaceGame.wav in Resources */ = {isa = PBXBuildFile; fileRef = E2230E0F1A67861B00C44223 /* SpaceGame.wav */; };
 		E2E562C319F40DB000C27B9F /* ParallaxNodeExtras.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E2E562C119F40DB000C27B9F /* ParallaxNodeExtras.cpp */; };
 /* End PBXBuildFile section */
 
@@ -277,15 +276,11 @@
 		D44C620D132DFF430009C878 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		D44C620F132DFF4E0009C878 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		D6B0611A1803AB670077942B /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreMotion.framework; sourceTree = DEVELOPER_DIR; };
-		E29C9D4119F1737900300C8A /* Backgrounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Backgrounds; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/Resources/Backgrounds; sourceTree = "<group>"; };
-		E29C9D4219F1737900300C8A /* Classes */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Classes; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/Resources/Classes; sourceTree = "<group>"; };
-		E29C9D4319F1737900300C8A /* Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Fonts; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/Resources/Fonts; sourceTree = "<group>"; };
-		E29C9D4519F1737900300C8A /* Sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Sounds; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/Resources/Sounds; sourceTree = "<group>"; };
-		E29C9D4619F1737900300C8A /* Spritesheets */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Spritesheets; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/Resources/Spritesheets; sourceTree = "<group>"; };
-		E29C9D4F19F174FC00300C8A /* Particles */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Particles; path = "../../../../Desktop/Programing/game mobile/Resources/Particles"; sourceTree = "<group>"; };
-		E29C9D5119F17BEC00300C8A /* explosion_large.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = explosion_large.wav; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/B30_space/Resources/explosion_large.wav; sourceTree = "<group>"; };
-		E29C9D5219F17BEC00300C8A /* laser_ship.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = laser_ship.wav; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/B30_space/Resources/laser_ship.wav; sourceTree = "<group>"; };
-		E29C9D5319F17BEC00300C8A /* SpaceGame.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = SpaceGame.wav; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/B30_space/Resources/SpaceGame.wav; sourceTree = "<group>"; };
+		E2230E031A67858F00C44223 /* ParallaxNodeExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ParallaxNodeExtras.h; path = ../Classes/ParallaxNodeExtras.h; sourceTree = "<group>"; };
+		E2230E061A6785CF00C44223 /* ParallaxNodeExtras.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ParallaxNodeExtras.cpp; path = ../Classes/ParallaxNodeExtras.cpp; sourceTree = "<group>"; };
+		E2230E091A67860600C44223 /* explosion_large.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = explosion_large.wav; sourceTree = "<group>"; };
+		E2230E0C1A67861300C44223 /* laser_ship.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laser_ship.wav; sourceTree = "<group>"; };
+		E2230E0F1A67861B00C44223 /* SpaceGame.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SpaceGame.wav; sourceTree = "<group>"; };
 		E2E562C119F40DB000C27B9F /* ParallaxNodeExtras.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = ParallaxNodeExtras.cpp; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/B30_space/Classes/ParallaxNodeExtras.cpp; sourceTree = "<group>"; };
 		E2E562C219F40DB000C27B9F /* ParallaxNodeExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ParallaxNodeExtras.h; path = ../../../../Desktop/Programing/cocos2d/SpaceGame/B30_space/Classes/ParallaxNodeExtras.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -363,6 +358,8 @@
 				1AFAF8B416D35DE700DB1158 /* AppDelegate.h */,
 				1AFAF8B516D35DE700DB1158 /* HelloWorldScene.cpp */,
 				1AFAF8B616D35DE700DB1158 /* HelloWorldScene.h */,
+				E2230E031A67858F00C44223 /* ParallaxNodeExtras.h */,
+				E2230E061A6785CF00C44223 /* ParallaxNodeExtras.cpp */,
 			);
 			name = Classes;
 			path = ../classes;
@@ -478,15 +475,9 @@
 		78C7DDAA14EBA5050085D0C2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				E29C9D5119F17BEC00300C8A /* explosion_large.wav */,
-				E29C9D5219F17BEC00300C8A /* laser_ship.wav */,
-				E29C9D5319F17BEC00300C8A /* SpaceGame.wav */,
-				E29C9D4F19F174FC00300C8A /* Particles */,
-				E29C9D4119F1737900300C8A /* Backgrounds */,
-				E29C9D4219F1737900300C8A /* Classes */,
-				E29C9D4319F1737900300C8A /* Fonts */,
-				E29C9D4519F1737900300C8A /* Sounds */,
-				E29C9D4619F1737900300C8A /* Spritesheets */,
+				E2230E091A67860600C44223 /* explosion_large.wav */,
+				E2230E0C1A67861300C44223 /* laser_ship.wav */,
+				E2230E0F1A67861B00C44223 /* SpaceGame.wav */,
 				1AFAF8B916D35E4900DB1158 /* CloseNormal.png */,
 				1AFAF8BA16D35E4900DB1158 /* CloseSelected.png */,
 				1AFAF8BB16D35E4900DB1158 /* HelloWorld.png */,
@@ -662,31 +653,25 @@
 				5087E78117EB970100C73F5D /* Icon-120.png in Resources */,
 				5087E78617EB970100C73F5D /* Icon-76.png in Resources */,
 				5087E77F17EB970100C73F5D /* Default@2x.png in Resources */,
-				E29C9D5519F17BEC00300C8A /* laser_ship.wav in Resources */,
 				50EF629917ECD46A001EB2F8 /* Icon-100.png in Resources */,
 				1AFAF8BC16D35E4900DB1158 /* CloseNormal.png in Resources */,
+				E2230E0A1A67860600C44223 /* explosion_large.wav in Resources */,
 				5087E78317EB970100C73F5D /* Icon-152.png in Resources */,
+				E2230E101A67861B00C44223 /* SpaceGame.wav in Resources */,
 				5087E77D17EB970100C73F5D /* Default-568h@2x.png in Resources */,
-				E29C9D5019F174FC00300C8A /* Particles in Resources */,
 				5087E78517EB970100C73F5D /* Icon-72.png in Resources */,
 				1AFAF8BD16D35E4900DB1158 /* CloseSelected.png in Resources */,
-				E29C9D5419F17BEC00300C8A /* explosion_large.wav in Resources */,
-				E29C9D4819F1737900300C8A /* Classes in Resources */,
 				50EF62A317ECD613001EB2F8 /* Icon-50.png in Resources */,
-				E29C9D4919F1737900300C8A /* Fonts in Resources */,
 				5087E78017EB970100C73F5D /* Icon-114.png in Resources */,
 				1AFAF8BE16D35E4900DB1158 /* HelloWorld.png in Resources */,
 				50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */,
 				50EF629617ECD46A001EB2F8 /* Icon-40.png in Resources */,
-				E29C9D4719F1737900300C8A /* Backgrounds in Resources */,
-				E29C9D4B19F1737900300C8A /* Sounds in Resources */,
 				5087E78217EB970100C73F5D /* Icon-144.png in Resources */,
 				50EF629817ECD46A001EB2F8 /* Icon-80.png in Resources */,
+				E2230E0D1A67861300C44223 /* laser_ship.wav in Resources */,
 				5087E78417EB970100C73F5D /* Icon-57.png in Resources */,
 				5087E77E17EB970100C73F5D /* Default.png in Resources */,
 				50EF629717ECD46A001EB2F8 /* Icon-58.png in Resources */,
-				E29C9D4C19F1737900300C8A /* Spritesheets in Resources */,
-				E29C9D5619F17BEC00300C8A /* SpaceGame.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -694,10 +679,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2230E0E1A67861300C44223 /* laser_ship.wav in Resources */,
 				5087E75317EB910900C73F5D /* CloseNormal.png in Resources */,
 				503AE0F817EB97AB00D1A890 /* Icon.icns in Resources */,
 				5087E75417EB910900C73F5D /* CloseSelected.png in Resources */,
 				5087E75517EB910900C73F5D /* HelloWorld.png in Resources */,
+				E2230E0B1A67860600C44223 /* explosion_large.wav in Resources */,
+				E2230E111A67861B00C44223 /* SpaceGame.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -711,6 +699,7 @@
 				503AE10017EB989F00D1A890 /* AppController.mm in Sources */,
 				503AE10217EB989F00D1A890 /* RootViewController.mm in Sources */,
 				1AFAF8B716D35DE700DB1158 /* AppDelegate.cpp in Sources */,
+				E2230E071A6785CF00C44223 /* ParallaxNodeExtras.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
 				1AFAF8B816D35DE700DB1158 /* HelloWorldScene.cpp in Sources */,
 				E2E562C319F40DB000C27B9F /* ParallaxNodeExtras.cpp in Sources */,
@@ -722,6 +711,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5087E75717EB910900C73F5D /* AppDelegate.cpp in Sources */,
+				E2230E081A6785CF00C44223 /* ParallaxNodeExtras.cpp in Sources */,
 				5087E75817EB910900C73F5D /* HelloWorldScene.cpp in Sources */,
 				503AE10517EB98FF00D1A890 /* main.cpp in Sources */,
 			);
